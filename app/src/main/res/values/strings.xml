@@ -1,0 +1,10 @@
+<resources>
+    <!--tao list-->
+    <string-array name="presidents_array">
+        <item>"Dwight D. Eisenhower"</item>
+        <item>  "John F. Kennedy"</item>
+        <item> "Lyndon B. Johson"</item>
+        <item>"Richard Nixon"</item>
+        <item>"Geral"</item>
+    </string-array>
+</resources>
